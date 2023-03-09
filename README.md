@@ -1,4 +1,4 @@
-#E-commerce App with Next JS and Sanity 
+#E-commerce App with Next JS and Sanity   
 I created an E-commerce app for selling headphones.  
 The app is created with the following technologies: CSS, ReactJS, NextJS, Sanity, Stripe, Confetti.  
 In Sanity backend I have created 2 Schemas , one for the product and one for the banner.  
